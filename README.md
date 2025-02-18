@@ -1,4 +1,5 @@
 MyRecipes
+
 MyRecipes to aplikacja do zarządzania przepisami kulinarnymi stworzona przy użyciu Jetpack Compose oraz Material3. Aplikacja umożliwia tworzenie, przeglądanie, edycję oraz usuwanie przepisów zapisanych jako pliki tekstowe.
 
 Funkcje
